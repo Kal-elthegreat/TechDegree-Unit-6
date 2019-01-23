@@ -1,21 +1,21 @@
 {
-    "properties": 
+    "projects": 
     [
         {
             "id" : 0,
             "projectName" : "Random Quote Generator",
             "description" : "Displays knowledge of basic JavaScript syntax and data structures by building a Random Quote Generator, a program that displays a randomly selected quote each time the user clicks a button",
             "technologies" : ["Loops","Arrays","Objects"],
-            "live_link" : "",
+            "live_link" : "https://kal-elthegreat.github.io/TechDegree-Unit-1/",
             "github_link" : "https://github.com/Kal-elthegreat/TechDegree-Unit-1",
-            "image_urls" : [] 
+            "image_urls" : ["../imgs/RQG_main.png"] 
         },
         {
             "id" : 1,
             "projectName" : "List Pagination and Filtering",
             "description" : "Enhancement of the usability of a web page that contains a long list by employing JavaScript to dynamically divide the list into pages.",
             "technologies" : ["Document Object Manipulation"],
-            "live_link" : "",
+            "live_link" : "https://kal-elthegreat.github.io/TechDegree-Unit-2/",
             "github_link" : "https://github.com/Kal-elthegreat/TechDegree-Unit-2",
             "image_urls" : [] 
         },
@@ -24,7 +24,7 @@
             "projectName" : "Interactive Form",
             "description" : "A showcase of skills needed to enhance a form so that it’s engaging, interactive, and easy to use",
             "technologies" : ["HTML", "jQuery", "Regular Expressions"],
-            "live_link" : "",
+            "live_link" : "https://kal-elthegreat.github.io/TechDegree-Unit-3/",
             "github_link" : "https://github.com/Kal-elthegreat/TechDegree-Unit-3",
             "image_urls" : [] 
         },
@@ -33,7 +33,7 @@
             "projectName" : "OOP Game Show App",
             "description" : "Created a browser-based, word guessing game: Phrase Hunter. Using JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase. A player tries to guess the phrase by selecting individual letters from an onscreen keyboard.",
             "technologies" : ["Object Oriented Programming", "Array Iteration", "Callback Functions"],
-            "live_link" : "",
+            "live_link" : "https://kal-elthegreat.github.io/TechDegree-Unit-4/",
             "github_link" : "https://github.com/Kal-elthegreat/TechDegree-Unit-4",
             "image_urls" : [] 
         },
@@ -42,7 +42,7 @@
             "projectName" : "Public API Requests",
             "description" : "Use of JavaScript to create an employee directory by communicating with a third-party API (Application Programming Interface).",
             "technologies" : ["HTTP", "Ajax"],
-            "live_link" : "",
+            "live_link" : "https://kal-elthegreat.github.io/TechDegree-Unit-5/",
             "github_link" : "https://github.com/Kal-elthegreat/TechDegree-Unit-5",
             "image_urls" : [] 
         }

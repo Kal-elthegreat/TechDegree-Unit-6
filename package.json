@@ -2,13 +2,14 @@
   "name": "TechDegree-Unit-6",
   "version": "1.0.0",
   "description": "Project 6 building a portfolio",
-  "main": "index.js",
+  "main": "app.js",
   "dependencies": {
     "express": "^4.16.4",
     "pug": "^2.0.3"
   },
   "devDependencies": {},
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
