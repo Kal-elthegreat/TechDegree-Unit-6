@@ -27,8 +27,7 @@ block content
         a.button.expanded(href=`${projects[id].github_link}`) GitHub Repo
     
     //- Replace the URLs in the src attributes below with template literals and interpolation to dynamically add three project images.  You only have to add one image.  But adding more images to show your app in different states demonstrates a level of thoroughness and professionalism that potential emplyers will like to see. 
-    img.image(src='https://placehold.it/1200x550')
-    img.image(src='https://placehold.it/1200x550')
-    img.image(src='https://placehold.it/1200x550')
+    each image, index in projects[id].image_urls
+      img.image(src=`${projects[id].image_urls[index]}`)
 
 //- THIS FILE WILL NEED TO ACCESS DATA.JSON PROPERTIES

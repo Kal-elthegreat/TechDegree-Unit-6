@@ -8,7 +8,7 @@
             "technologies" : ["Loops","Arrays","Objects"],
             "live_link" : "https://kal-elthegreat.github.io/TechDegree-Unit-1/",
             "github_link" : "https://github.com/Kal-elthegreat/TechDegree-Unit-1",
-            "image_urls" : ["/static/imgs/RQG_main.png"] 
+            "image_urls" : ["/static/imgs/RQG_main.png", "/static/imgs/RQG_p2.png"] 
         },
         {
             "id" : 2,
@@ -17,7 +17,7 @@
             "technologies" : ["Document Object Manipulation"],
             "live_link" : "https://kal-elthegreat.github.io/TechDegree-Unit-2/",
             "github_link" : "https://github.com/Kal-elthegreat/TechDegree-Unit-2",
-            "image_urls" : [""] 
+            "image_urls" : ["/static/imgs/List_Pagination_Main.png", "/static/imgs/List_Pagination_p2.png"] 
         },
         {
             "id" : 3,
@@ -26,7 +26,7 @@
             "technologies" : ["HTML", "jQuery", "Regular Expressions"],
             "live_link" : "https://kal-elthegreat.github.io/TechDegree-Unit-3/",
             "github_link" : "https://github.com/Kal-elthegreat/TechDegree-Unit-3",
-            "image_urls" : [""] 
+            "image_urls" : ["/static/imgs/Interactive_Form_Main.png", "/static/imgs/Interactive_Form_p2.png", "/static/imgs/Interactive_Form_p3.png"] 
         },
         {
             "id" : 4,
@@ -35,7 +35,7 @@
             "technologies" : ["Object Oriented Programming", "Array Iteration", "Callback Functions"],
             "live_link" : "https://kal-elthegreat.github.io/TechDegree-Unit-4/",
             "github_link" : "https://github.com/Kal-elthegreat/TechDegree-Unit-4",
-            "image_urls" : [""] 
+            "image_urls" : ["/static/imgs/OOP_Main.png", "/static/imgs/OOP_p2.png", "/static/imgs/OOP_p3.png"] 
         },
         {
             "id" : 5,
@@ -44,7 +44,7 @@
             "technologies" : ["HTTP", "Ajax"],
             "live_link" : "https://kal-elthegreat.github.io/TechDegree-Unit-5/",
             "github_link" : "https://github.com/Kal-elthegreat/TechDegree-Unit-5",
-            "image_urls" : [""] 
+            "image_urls" : ["/static/imgs/Ajax_Main.png", "/static/imgs/Ajax_p2.png", "static/imgs/Ajax_p3.png"] 
         }
     ]
 }
