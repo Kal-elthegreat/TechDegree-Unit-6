@@ -5,7 +5,7 @@ html(class="no-js" lang="en" dir="ltr")
     meta(http-equiv='x-ua-compatible', content='ie=edge')
     meta(name='viewport', content='width=device-width, initial-scale=1.0')
     title Portfolio Site
-    link(href='https://fonts.googleapis.com/css?family=Merriweather:300,400,400i,700,800', rel='stylesheet')
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,400i,700,800" rel="stylesheet">
     link(rel='stylesheet', href='/static/css/foundation.css')
     link(rel='stylesheet', href='/static/css/style.css')
   body
@@ -16,22 +16,17 @@ html(class="no-js" lang="en" dir="ltr")
           .cell.shrink
             img.thumbnail(src='/static/imgs/Photo.jpg')
           .cell.auto
-
-            //- Add your name here.
             h5 Kiel Lewis
 
             //- Add text here to describe who you are, what you do, and why you are so aweome.
             p.text-light
-              | ???????????????????????????? 
-            //- Add about page route to the href below. 
+              | The path of the righteous man is beset on all sides by the iniquities of the selfish and the tyranny of evil men. Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of darkness, for he is truly his brother's keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who would attempt to poison and destroy My brothers. And you will know My name is the Lord when I lay My vengeance upon thee.  
             a(href='/about') Learn More →
 
     .off-canvas-content(data-off-canvas-content='')
       .title-bar.hide-for-large
         .title-bar-left
           button.menu-icon(type='button', data-toggle='my-info')
-
-          //- Add your name here.  This is for the mobile screen sized version.
           span.title-bar-title Kiel Lewis
       block content
         

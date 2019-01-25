@@ -4984,6 +4984,11 @@ table.hover:not(.unstriped) tr:nth-of-type(even):hover {
   .tabs-panel.is-active {
     display: block; }
 
+.cell.shrink img.thumbnail{
+  border-radius: 50%;
+  border: none;
+}
+
 .thumbnail {
   display: inline-block;
   max-width: 100%;
