@@ -12,7 +12,7 @@
         },
         {
             "id" : 2,
-            "projectName" : "List Pagination and Filtering",
+            "projectName" : "List Pagination & Filtering",
             "description" : "Enhancement of the usability of a web page that contains a long list by employing JavaScript to dynamically divide the list into pages.",
             "technologies" : ["Document Object Manipulation"],
             "live_link" : "https://kal-elthegreat.github.io/TechDegree-Unit-2/",
